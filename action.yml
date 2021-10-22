@@ -1,5 +1,6 @@
 # This action triggers the build hook
 name: Schedule Build Trigger
+description: Schedules builds of static sites on services like Netlify and Vercel by triggering build hooks.
 
 # Controls when the workflow will run
 on:
